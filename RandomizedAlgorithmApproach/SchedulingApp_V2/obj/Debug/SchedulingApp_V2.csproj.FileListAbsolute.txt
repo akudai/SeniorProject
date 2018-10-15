@@ -1,0 +1,13 @@
+c:\users\akudai\documents\visual studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\bin\Debug\SchedulingApp_V2.exe.config
+C:\Users\akudai\Documents\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\bin\Debug\SchedulingApp_V2.exe
+C:\Users\akudai\Documents\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\bin\Debug\SchedulingApp_V2.pdb
+C:\Users\akudai\Documents\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.csprojResolveAssemblyReference.cache
+C:\Users\akudai\Documents\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.exe
+C:\Users\akudai\Documents\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.pdb
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\bin\Debug\SchedulingApp_V2.exe.config
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\bin\Debug\SchedulingApp_V2.exe
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\bin\Debug\SchedulingApp_V2.pdb
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.csprojResolveAssemblyReference.cache
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.csproj.CoreCompileInputs.cache
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.exe
+F:\BorgWarner_8-17-2018\Documents_8-17-2018\Visual Studio 2015\Projects\SchedulingApp_V2\SchedulingApp_V2\obj\Debug\SchedulingApp_V2.pdb
