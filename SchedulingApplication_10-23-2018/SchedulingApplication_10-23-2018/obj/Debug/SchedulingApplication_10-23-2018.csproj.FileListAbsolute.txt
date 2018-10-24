@@ -1,0 +1,9 @@
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\bin\SchedulingApplication_10-23-2018.dll.config
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\bin\SchedulingApplication_10-23-2018.dll
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\bin\SchedulingApplication_10-23-2018.pdb
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\obj\Debug\SchedulingApplication_10-23-2018.csprojResolveAssemblyReference.cache
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\obj\Debug\SchedulingApplication_10-23-2018.csproj.CoreCompileInputs.cache
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\obj\Debug\SchedulingApplication_10-23-2018.dll
+C:\Users\aaaam\source\repos\SchedulingApplication_10-23-2018\SchedulingApplication_10-23-2018\obj\Debug\SchedulingApplication_10-23-2018.pdb
